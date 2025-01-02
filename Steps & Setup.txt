@@ -1,0 +1,13 @@
+-Phase 1. Setup
+-Phase 2. Data Collection
+-Phase 3. Categorization & Clustering
+-Phase 4. Dashboard Development
+-Phase 5. Report Generation & Notifications
+-Phase 6. Scalability
+
+and the Proposed Flowchart:
+Input credentials (securely).
+Fetch followed accounts and data.
+Preprocess and categorize data.
+Display categorized accounts in a dashboard.
+Generate and send user reports.
